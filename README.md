@@ -17,7 +17,7 @@ This is a repo containing the files needed to run all the demos for the SEA NLP 
    - Start Jupyter: `jupyter notebook`
    - Open one of the Notebooks (e.g. `SentimentAnalysis_EN_2.ipynb`) in your browser to run the demo
 5. To run the demo Notebooks: `IndoBERT_NER.ipynb`, which depends on an older version of `transformers`, do the following:
-   - Exit from any environment you are in
+   - Exit from any environment you are in, e.g. `conda deactivate sea_nlp1`
    - Create a new environment `sea_nlp2` (you can use any other name of your preference for your environment): `conda create --name sea_nlp2 python=3.7`
    - Go to the new environment: `conda activate sea_nlp2`
    - Install the dependencies: `pip install -r requirements_IndoBERT.txt`
