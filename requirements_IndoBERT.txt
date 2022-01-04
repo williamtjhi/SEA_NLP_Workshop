@@ -1,0 +1,9 @@
+transformers==2.9.0
+torch
+pandas
+nltk
+jupyter
+h5py
+keras-preprocessing
+jsonschema==2.6.0
+Flask

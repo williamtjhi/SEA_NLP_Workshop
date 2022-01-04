@@ -1,0 +1,12 @@
+seacorenlp
+fasttext
+scikit-learn
+pandas
+numpy
+jupyter
+spacy
+transformers
+matplotlib
+datasets
+torch
+nltk
